@@ -28,10 +28,10 @@
   "homepage": "https://github.com/alwaysAn0n/cashshufflejs-web#readme",
   "dependencies": {
     "axios": "0.18.0",
-    "bitbox-sdk": "5.1.1",
+    "bitbox-sdk": "8.0.0",
     "bitcoincashjs-fork": "1.0.3",
     "debug": "4.1.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.23",
     "protobufjs": "6.8.8",
     "qrcode-terminal": "^0.12.0",
     "ws": "6.2.1"
